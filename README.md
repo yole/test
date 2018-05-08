@@ -1,5 +1,5 @@
 test
 ====
 
-Testing stuff. Merged.
+Testing stuff. Merged. Commit and push.
 
